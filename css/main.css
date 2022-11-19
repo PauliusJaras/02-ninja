@@ -19,7 +19,6 @@ main{
     margin: 0;    margin: 0;
     height: 620px;
     width: 612px;
-    background-color: #3a4450;
 }
 
 h1{
@@ -39,7 +38,9 @@ p{
 .shape{
     display: flex;
     flex-direction: column;
-    align-items: flex;
+    align-items: center;
     justify-content: center;
     height: 204px;
+    width: 100%;
+    background-color: #3a4450;
 }
